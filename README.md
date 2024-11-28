@@ -25,6 +25,10 @@
 <div> 
   <a href = "mailto:henriquepedro1912@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail" target="_blank"></a>
   <a href = "https://steamcommunity.com/id/Trash255/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
+  <a href = "https://open.spotify.com/user/a9yp0oohowdkpoe9143h2ah9f"><img src="https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white" target="_blank"></a>
+  <a href = "g.dev/pedroh-dev255"><img src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white" target="_blank"></a>
+  
+  
   
  ##
 </div>

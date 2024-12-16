@@ -2,7 +2,7 @@
 
 🎯 Apaixonado por tecnologia, resolução de problemas e inovação. Sou um desenvolvedor backend com sólida experiência em criar soluções robustas para a web e um entusiasta em desenvolvimento mobile com Flutter.
 
-- 👨‍🎓 **Formado em Tecnologia da Informação** pela [sua universidade, se quiser incluir].
+- 👨‍🎓 **Formado em Tecnologia da Informação** pelo Instituto Federal de Educação Ciência e Tecnologia do Tocantins.
 - 👨🏾‍💻 **Desenvolvedor Web Backend** com experiência em PHP, Node.js e bancos de dados.
 - 🤓 **Explorando o desenvolvimento mobile** com Flutter e Dart.
 - 🛠️ Experiência com infraestrutura e ferramentas como Docker, Linux, Nginx e Apache.

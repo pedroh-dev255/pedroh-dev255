@@ -30,6 +30,7 @@
   <img align="center" alt="Apache" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg">
   <img align="center" alt="Linux" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img align="center" alt="Ubuntu" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-original.svg">
+  <img align="center" alt="Proxmox" height="40" width="50" src="https://www.svgrepo.com/show/331552/proxmox.svg">
 </div>
 
 ---

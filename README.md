@@ -1,9 +1,7 @@
 ## Olá! 👋 Eu sou Pedro Henrique
 
 <div align="center">
-  <a href="https://github.com/Readme-english.md">English</a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedroh-dev255&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroh-dev255&layout=compact&langs_count=7&theme=tokyonight"/>
+  <a href="https://github.com/pedroh-dev255/pedroh-dev255/Readme-english.md">English</a>
 </div>
   
   

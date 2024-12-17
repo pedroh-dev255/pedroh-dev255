@@ -1,10 +1,13 @@
 ## Olá! 👋 Eu sou Pedro Henrique
 
-<div align="center>
-  
+<div align="center">
   <a href="https://github.com/Readme-english.md">English</a>
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedroh-dev255&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroh-dev255&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
+  
+  
+
 
 🎯 Apaixonado por tecnologia, resolução de problemas e inovação. Sou um desenvolvedor backend com sólida experiência em criar soluções robustas para a web e um entusiasta em desenvolvimento mobile com Flutter.
 

@@ -1,6 +1,7 @@
 # Hi! 👋 I'm Pedro Henrique
-<div align="center>
-  <a href="https://github.com/pedroh-dev255/pedroh-dev255/README.md">Portuguese 🇧🇷</a>
+
+<div align="center">
+  <a href="https://github.com/pedroh-dev255/pedroh-dev255/blob/main/README.md">Portuguese version 🇧🇷</a>
 </div>
 
 🎯 Passionate about technology, problem-solving, and innovation. I'm a backend developer with solid experience in creating robust web solutions and an enthusiast in mobile development with Flutter.

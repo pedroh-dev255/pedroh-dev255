@@ -43,7 +43,7 @@
   <a href="mailto:henriquepedro1912@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://steamcommunity.com/id/Trash255/"><img src="https://img.shields.io/badge/Steam-171A21?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
   <a href="https://open.spotify.com/user/a9yp0oohowdkpoe9143h2ah9f"><img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/seulinkedin"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/pedro-henrique-santos-souza-950aab251"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
 ---

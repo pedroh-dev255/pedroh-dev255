@@ -1,7 +1,7 @@
 ## Olá! 👋 Eu sou Pedro Henrique
 
 <div align="center">
-  <a href="https://github.com/pedroh-dev255/pedroh-dev255/blob/main/Readme-english.md">English version</a>
+  <a href="https://github.com/pedroh-dev255/pedroh-dev255/blob/main/Readme-english.md">English version 🇺🇸</a>
 </div>
   
   

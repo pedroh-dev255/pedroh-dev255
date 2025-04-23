@@ -11,7 +11,7 @@
 
 - 👨‍🎓 **Formado em Tecnologia da Informação** pelo Instituto Federal de Educação Ciência e Tecnologia do Tocantins.
 - 👨🏾‍💻 **Desenvolvedor Web Backend** com experiência em PHP, Node.js e bancos de dados.
-- 🤓 **Explorando o desenvolvimento mobile** com Flutter e Dart.
+- 🤓 **Explorando o desenvolvimento mobile** com Flutter e React Native.
 - 🛠️ Experiência com infraestrutura e ferramentas como Docker, Linux, Nginx e Apache.
 - 😊 **5+ anos de experiência** entregando soluções eficientes e escaláveis.
 
@@ -28,6 +28,8 @@
   <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Dart" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
   <img align="center" alt="Flutter" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
+  <img align="center" alt="Flutter" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png">
+  
   <br>
   <img align="center" alt="Nginx" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg">
   <img align="center" alt="Apache" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg">

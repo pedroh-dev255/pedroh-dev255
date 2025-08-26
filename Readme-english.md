@@ -19,19 +19,24 @@
 <div align="center">
   <img align="center" alt="PHP" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Mysql" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
-  <img align="center" alt="Docker" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   <img align="center" alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Dart" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
   <img align="center" alt="Flutter" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
   <img align="center" alt="Flutter" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png">
+  <img align="center" alt="Next" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nextjs/nextjs-original.svg">
+  <img align="center" alt="PostgreSQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/postgresql/postgresql-original.svg">
+  
   <br>
   <img align="center" alt="Nginx" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg">
   <img align="center" alt="Apache" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg">
   <img align="center" alt="Linux" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img align="center" alt="Ubuntu" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-original.svg">
   <img align="center" alt="Proxmox" height="40" width="50" src="https://www.svgrepo.com/show/331552/proxmox.svg">
+  <img align="center" alt="Docker" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/docker/docker-original-wordmark.svg">
+  <img align="center" alt="vscode" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/vscode/vscode-original-wordmark.svg">
+  
 </div>
 
 ---

@@ -39,6 +39,7 @@
   <img align="center" alt="Proxmox" height="40" width="50" src="https://www.svgrepo.com/show/331552/proxmox.svg">
   <img align="center" alt="Docker" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/docker/docker-original-wordmark.svg">
   <img align="center" alt="vscode" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/vscode/vscode-original-wordmark.svg">
+  <img align="center" alt="Arduino" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/arduino/arduino-original.svg">
   
 </div>
 

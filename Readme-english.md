@@ -4,13 +4,13 @@
   <a href="https://github.com/pedroh-dev255/pedroh-dev255/blob/main/README.md">Portuguese version 🇧🇷</a>
 </div>
 
-🎯 Passionate about technology, problem-solving, and innovation. I'm a backend developer with solid experience in creating robust web solutions and an enthusiast in mobile development with Flutter.
+🎯 Passionate about technology, problem-solving, and innovation. I'm a backend developer with solid experience in creating robust web solutions and an enthusiast in mobile development with React Native.
 
 - 👨‍🎓 **Graduated in Information Technology** at the Federal Institute of Education, Science, and Technology of Tocantins.
 - 👨🏾‍💻 **Backend Web Developer** with experience in PHP, Node.js, and databases.
 - 🤓 **Exploring mobile development** with Flutter and React-Native.
 - 🛠️ Experienced with infrastructure and tools like Docker, Linux, Nginx, and Apache.
-- 😊 **5+ years of experience** delivering efficient and scalable solutions.
+- 😊 **6+ years of experience** delivering efficient and scalable solutions.
 
 <div align="center">
   <h2>👨‍💻 Technologies I use:</h2>

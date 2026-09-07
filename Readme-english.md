@@ -10,7 +10,7 @@
 - 👨🏾‍💻 **Backend Web Developer** with experience in PHP, Node.js, and databases.
 - 🤓 **Exploring mobile development** with Flutter and React-Native.
 - 🛠️ Experienced with infrastructure and tools like Docker, Linux, Nginx, and Apache.
-- 😊 **6+ years of experience** delivering efficient and scalable solutions.
+- 😊 **7+ years of experience** delivering efficient and scalable solutions.
 
 <div align="center">
   <h2>👨‍💻 Technologies I use:</h2>
@@ -24,7 +24,6 @@
   <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Dart" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
   <img align="center" alt="Flutter" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
-  <img align="center" alt="Flutter" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png">
   <img align="center" alt="Next" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nextjs/nextjs-original.svg">
   <img align="center" alt="PostgreSQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/postgresql/postgresql-original.svg">
   

@@ -13,7 +13,7 @@
 - 👨🏾‍💻 **Desenvolvedor Web Backend** com experiência em PHP, Node.js e bancos de dados.
 - 🤓 **Explorando o desenvolvimento mobile** com Flutter e React Native.
 - 🛠️ Experiência com infraestrutura e ferramentas como Docker, Linux, Nginx e Apache.
-- 😊 **6+ anos de experiência** entregando soluções eficientes e escaláveis.
+- 😊 **7+ anos de experiência** entregando soluções eficientes e escaláveis.
 
 <div align="center">
   <h2>👨‍💻 Tecnologias que utilizo:</h2>
@@ -26,7 +26,6 @@
   <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Dart" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
-  <img align="center" alt="Flutter" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
   <img align="center" alt="Flutter" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png">
   <img align="center" alt="Next" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nextjs/nextjs-original.svg">
   <img align="center" alt="PostgreSQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/postgresql/postgresql-original.svg">

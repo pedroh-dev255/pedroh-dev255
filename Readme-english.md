@@ -51,9 +51,3 @@
 </div>
 
 ---
-
-<div align="center">
-  <h2>📊 My stats:</h2>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedroh-dev255&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroh-dev255&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
